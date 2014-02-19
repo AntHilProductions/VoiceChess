@@ -1,0 +1,14 @@
+replace lowerleft notification box with a full length notification box at the top of the screen (this will also help the board look more like a square)
+use text-to-speech feedback
+prevent castling through check
+display anthil logo on startup
+promo video
+sound effects
+timer for both sides (ability to play blitz)
+full-screen mode
+rotate pieces 180 degrees for each turn?
+save game
+at end of of game don't auto reset, have option to review
+haptic feeback on touch
+if the move is invalid, show the list of alternate valid moves it heard
+
